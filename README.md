@@ -1,0 +1,21 @@
+# Sales Data Analysis using Python
+Monthly sales data analysis and visualization using Python and Matplotlib.
+
+## Features
+- Total sales calculation
+- Highest sales month detection
+- Lowest profit analysis
+- Average sales calculation
+- Data visualization using graphs
+
+## Tools Used
+- Python
+- CSV
+- Matplotlib
+
+## Graphs Included
+- Sales vs Months (Line Graph)
+- Expense vs Months (Bar Chart)
+- Sales vs Expense (Line Graph)
+- Scatter Plot
+- Pie Chart
