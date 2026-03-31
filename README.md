@@ -1,5 +1,5 @@
 # Sales Data Analysis using Python
-Monthly sales data analysis and visualization using Python and Matplotlib.
+Monthly sales data analysis and visualization using Python CSV handling and Matplotlib.
 
 ## Features
 - Total sales calculation
